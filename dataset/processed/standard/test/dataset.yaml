@@ -1,0 +1,17 @@
+path: /Users/admin/projects/vehicle-defect-detection/dataset/processed/standard/test
+train: images
+val: images
+names:
+  0: defects
+  1: Burn
+  2: Clear Glass
+  3: Corrosion
+  4: Crack
+  5: Cutouts
+  6: Defaced Paint
+  7: Dents
+  8: Hairline Glass
+  9: Inclusion
+  10: Paint-Peel
+  11: Spidery Glass
+  12: Tempered Glass
